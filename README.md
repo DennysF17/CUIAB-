@@ -1,3 +1,3 @@
-# CUIAB-
+# CUIABA
 Urbano
 Setor-Censitario
